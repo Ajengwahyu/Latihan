@@ -1,3 +1,1 @@
-// hello
-
-//oh gitu ternyata
+console.log("hello world");
